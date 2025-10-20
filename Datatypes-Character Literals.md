@@ -17,6 +17,6 @@ print(w)
 
 ```
 ## Output
-
+![alt text](p3.png)
 
 ## Result
