@@ -16,6 +16,6 @@ print(men_stepped_on_the_moon)
 
 ```
 ## Output
-![alt text](../p5.png)
+
 
 ## Result

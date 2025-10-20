@@ -28,6 +28,6 @@ print("d:", d)
 
 ```
 ## Output
-![alt text](../p2.png)
+
 
 ## Result

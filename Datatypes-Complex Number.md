@@ -25,6 +25,6 @@ print("Imaginary part:", x.imag)
 
 ```
 ## Output
-![alt text](../p4.png)
+
 
 ## Result

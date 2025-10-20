@@ -24,6 +24,6 @@ else:
 
 
 ## Output
-![alt text](../p1.png)
+![alt text](p1.png)
 
 ## Result
